@@ -1,0 +1,8 @@
+
+# Polish-Lithuania
+union = {
+	first = POL
+	second = LIT
+	start_date = 1386.7.1
+	end_date = 1444.11.10
+}
