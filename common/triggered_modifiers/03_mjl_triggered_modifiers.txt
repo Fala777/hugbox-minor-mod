@@ -1,0 +1,102 @@
+###########################################
+# Player in new world nerf
+###########################################
+new_world_player_nerf = {
+	potential = {
+		OR = {	
+			is_colonial_nation = yes
+			has_reform = trade_company_government
+			has_country_flag = changed_from_colonial_nation
+			AND = {
+				capital_scope = {
+					continent = north_america
+				}
+				capital_scope = {
+					continent = south_america
+				}	
+				capital_scope = {
+					continent = oceania
+				}
+				total_development = 1000
+			}
+		}
+		was_player = yes
+	}
+
+	trigger = {
+		total_development = 300
+	}
+
+	manpower_recovery_speed = -0.1
+	sailors_recovery_speed = -0.1
+	global_sailors_modifier = -0.1
+	naval_forcelimit_modifier = -0.1
+	land_forcelimit_modifier = -0.1
+}
+new_world_player_nerf_600 = {
+	potential = {
+		OR = {
+			capital_scope = {
+				continent = north_america
+			}
+			capital_scope = {
+				continent = south_america
+			}	
+			capital_scope = {
+				continent = oceania
+			}
+			is_colonial_nation = yes
+			has_reform = trade_company_government
+			has_country_flag = changed_from_colonial_nation
+		}
+		was_player = yes
+	}
+
+	trigger = {
+		total_development = 600
+	}
+
+	manpower_recovery_speed = -0.1
+	sailors_recovery_speed = -0.1
+	global_sailors_modifier = -0.1
+	naval_forcelimit_modifier = -0.1
+	land_forcelimit_modifier = -0.1
+}
+new_world_player_nerf_1200 = {
+	potential = {
+		OR = {
+			is_colonial_nation = yes
+			has_reform = trade_company_government
+		}
+		was_player = yes
+	}
+
+	trigger = {
+		total_development = 1200
+	}
+
+	manpower_recovery_speed = -0.1
+	sailors_recovery_speed = -0.1
+	global_sailors_modifier = -0.1
+	naval_forcelimit_modifier = -0.1
+	land_forcelimit_modifier = -0.1
+}
+new_world_player_nerf_2400 = {
+	potential = {
+		OR = {
+			is_colonial_nation = yes
+			has_reform = trade_company_government
+		}
+		was_player = yes
+	}
+
+	trigger = {
+		total_development = 2400
+	}
+
+	manpower_recovery_speed = -0.1
+	sailors_recovery_speed = -0.1
+	global_sailors_modifier = -0.1
+	naval_forcelimit_modifier = -0.1
+	land_forcelimit_modifier = -0.1
+}

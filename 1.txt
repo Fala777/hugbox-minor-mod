@@ -1,0 +1,5 @@
+every_province = {
+	limit = { superregion = china_superregion }
+	add_core = ROOT
+	cede_province = ROOT
+}
