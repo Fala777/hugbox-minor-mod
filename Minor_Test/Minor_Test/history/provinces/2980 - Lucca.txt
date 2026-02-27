@@ -1,8 +1,8 @@
 # Lucca
 
-owner = FER
-controller = FER
-add_core = FER
+owner = LUC
+controller = LUC
+add_core = LUC
 add_core = LUC
 culture = tuscan
 religion = catholic

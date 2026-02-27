@@ -3,6 +3,7 @@ add_government_reform = margraviate_reform
 government_rank = 1
 technology_group = western
 primary_culture = saxon
+elector = yes
 religion = catholic
 capital = 50	# Berlin
 add_country_modifier = {

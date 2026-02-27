@@ -5,7 +5,6 @@ primary_culture = pommeranian
 religion = catholic
 technology_group = western
 capital = 1858	# Stettin
-elector = yes
 add_country_modifier = {
 	name = "mjl_privateer_efficiency_debuff"
 	duration = -1

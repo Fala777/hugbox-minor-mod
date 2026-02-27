@@ -5,7 +5,6 @@ primary_culture = swabian
 religion = catholic
 technology_group = western
 capital = 4714	# Durlach
-elector = yes	
 add_country_modifier = {
 	name = "mjl_privateer_efficiency_debuff"
 	duration = -1
@@ -19,7 +18,7 @@ add_country_modifier = {
 		adm = 3
 		dip = 2
 		mil = 1
-		dynasty = "von Zähringen"		
+		dynasty = "von Zï¿½hringen"		
 	}
 }
 
@@ -33,7 +32,7 @@ add_country_modifier = {
 		adm = 1
 		dip = 2
 		mil = 3
-		dynasty = "von Zähringen"		
+		dynasty = "von Zï¿½hringen"		
 	}
 }
 
@@ -44,7 +43,7 @@ add_country_modifier = {
 		adm = 4
 		dip = 3
 		mil = 4
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = just_personality
@@ -61,7 +60,7 @@ add_country_modifier = {
 		adm = 4
 		dip = 3
 		mil = 4
-		dynasty = "von Zähringen"		
+		dynasty = "von Zï¿½hringen"		
 	}
 }
 		
@@ -72,7 +71,7 @@ add_country_modifier = {
 		adm = 1
 		dip = 1
 		mil = 1
-		dynasty = "von Zähringen"		
+		dynasty = "von Zï¿½hringen"		
 	}
 }
 
@@ -86,7 +85,7 @@ add_country_modifier = {
 		adm = 2
 		dip = 0
 		mil = 1
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -97,7 +96,7 @@ add_country_modifier = {
 		adm = 2
 		dip = 0
 		mil = 1
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -111,7 +110,7 @@ add_country_modifier = {
 		adm = 4
 		dip = 4
 		mil = 0
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 		
@@ -122,7 +121,7 @@ add_country_modifier = {
 		adm = 4
 		dip = 4
 		mil = 0
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -136,7 +135,7 @@ add_country_modifier = {
 		adm = 0
 		dip = 1
 		mil = 2
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 		
@@ -147,7 +146,7 @@ add_country_modifier = {
 		adm = 0
 		dip = 1
 		mil = 2
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -163,7 +162,7 @@ add_country_modifier = {
 		adm = 3
 		dip = 0
 		mil = 3
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -174,7 +173,7 @@ add_country_modifier = {
 		adm = 3
 		dip = 0
 		mil = 3
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -188,7 +187,7 @@ add_country_modifier = {
 		adm = 1
 		dip = 3
 		mil = 2
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -199,7 +198,7 @@ add_country_modifier = {
 		adm = 1
 		dip = 3
 		mil = 2
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -213,7 +212,7 @@ add_country_modifier = {
 		adm = 0
 		dip = 3
 		mil = 3
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -224,7 +223,7 @@ add_country_modifier = {
 		adm = 0
 		dip = 3
 		mil = 0
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -238,7 +237,7 @@ add_country_modifier = {
 		adm = 2
 		dip = 1
 		mil = 4
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -249,7 +248,7 @@ add_country_modifier = {
 		adm = 2
 		dip = 1
 		mil = 4
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 	queen = {
 		country_of_origin = EFR
@@ -274,7 +273,7 @@ add_country_modifier = {
 		adm = 4
 		dip = 1
 		mil = 4
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -285,7 +284,7 @@ add_country_modifier = {
 		adm = 4
 		dip = 1
 		mil = 4
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -299,7 +298,7 @@ add_country_modifier = {
 		adm = 3
 		dip = 1
 		mil = 3
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -310,7 +309,7 @@ add_country_modifier = {
 		adm = 3
 		dip = 1
 		mil = 3
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -324,7 +323,7 @@ add_country_modifier = {
 		adm = 2
 		dip = 4
 		mil = 4
-		dynasty = "von Zähringen"		
+		dynasty = "von Zï¿½hringen"		
 		leader = { 
 			name = "Ludwig-Wilhelm I"
 			type = general
@@ -344,7 +343,7 @@ add_country_modifier = {
 		dip = 4
 		mil = 4
 		leader = { name = "Ludwig-Wilhelm I"	type = general	fire = 2	shock = 3	manuever = 2	siege = 0}
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -358,7 +357,7 @@ add_country_modifier = {
 		adm = 3
 		dip = 3
 		mil = 1
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -369,7 +368,7 @@ add_country_modifier = {
 		adm = 3
 		dip = 3
 		mil = 1
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -383,7 +382,7 @@ add_country_modifier = {
 		adm = 2
 		dip = 5
 		mil = 0
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -394,7 +393,7 @@ add_country_modifier = {
 		adm = 2
 		dip = 5
 		mil = 0
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -408,7 +407,7 @@ add_country_modifier = {
 		adm = 2
 		dip = 5
 		mil = 0
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -419,7 +418,7 @@ add_country_modifier = {
 		adm = 2
 		dip = 5
 		mil = 0
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -433,7 +432,7 @@ add_country_modifier = {
 		adm = 4
 		dip = 3
 		mil = 1
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -444,7 +443,7 @@ add_country_modifier = {
 		adm = 4
 		dip = 3
 		mil = 1
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -458,7 +457,7 @@ add_country_modifier = {
 		adm = 4
 		dip = 4
 		mil = 1
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -469,7 +468,7 @@ add_country_modifier = {
 		adm = 4
 		dip = 4
 		mil = 1
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
 
@@ -483,6 +482,6 @@ add_country_modifier = {
 		adm = 4
 		dip = 4
 		mil = 1
-		dynasty = "von Zähringen"
+		dynasty = "von Zï¿½hringen"
 	}
 }
