@@ -1,1 +1,0 @@
-estate_sea_mercs = { icon = 1 trigger = { always = no } }

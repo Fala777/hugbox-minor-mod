@@ -1,3 +1,0 @@
-transcaucasian_wine_valleys = {
-	trade_goods_size = 1.0
-}
